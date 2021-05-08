@@ -1,8 +1,7 @@
-# UAS_311710181_Kristoforus.L.Nong-Hugo
-Tugas_UAS_Pemrograman_Mobile
+# UTS_TriaLukikawati_311720876_Hospital
+Tugas_UTS_Pemrograman_Mobile
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Ias64_8ePL8)
 
 
 
